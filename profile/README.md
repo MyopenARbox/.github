@@ -1,6 +1,6 @@
 ## Welcome everybody! 👋
 
-The ARbox provides Augmented Reality models to media professionals in order to support the visualization of complex facts.
+The armediabox provides Augmented Reality models to media professionals in order to support the visualization of complex facts.
 
 The communication of facts in our modern society often challenges even educated people and numbers, which are supposed to 
 illustrate the magnitude of effects, are getting more and more abstract by their sheer size. AR is one method of visual 
@@ -12,4 +12,3 @@ _____________________________________________________________________________
 Supported by
 
 https://www.media-lab.de/de/media-tech-lab
-

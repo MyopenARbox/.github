@@ -13,4 +13,4 @@ _____________________________________________________________________________
 
 Supported by
 
-<img alt="Media Tech Lab Bayern" src="/MTL_AR.jpg">
+

@@ -11,4 +11,4 @@ _____________________________________________________________________________
 
 Supported by
 
-https://www.media-lab.de/de/media-tech-lab
+/MTL_AR.jpg

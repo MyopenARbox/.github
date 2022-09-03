@@ -11,6 +11,8 @@ With the armediabox we want to provide an easy to use platform for media to acce
 
 _____________________________________________________________________________
 
+Supported by
+
 <img alt="Media Tech Lab Bayern" src="/MTL_AR.jpg">
 
 

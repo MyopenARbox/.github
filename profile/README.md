@@ -13,7 +13,7 @@ _____________________________________________________________________________
 
 Supported by
 
-<img alt="Media Tech Lab Bayern" src="/MTL_AR.jpg">
+<img alt="Media Tech Lab Bayern" https://https://www.media-lab.de/de/ src="/MTL_AR.jpg">
 
 
 

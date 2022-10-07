@@ -7,7 +7,7 @@ illustrate the magnitude of effects, are getting more and more abstract by their
 representation among others, but unlike any other technology, AR places the visuals, e.g. the 3D models, in a real environment. 
 This gives users a more natural reference frame and should help with a deeper understanding of the facts provided.
 
-With the openARbox we want to provide an easy to use platform for media to access and integrate AR experiences in their media output.
+With the openARbox we want to provide an easy to use tool for media to access and integrate AR experiences in their media output.
 
 _____________________________________________________________________________
 
